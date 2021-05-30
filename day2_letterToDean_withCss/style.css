@@ -5,7 +5,7 @@ body{
 #header{
     text-align: center;
     color: rgb(241, 243, 207);
-    background-color: rgb(78, 37, 7);
+    background-color: rgb(95, 92, 92);
     padding: 5px 5px 5px 5px;
 }
 #table_class{
@@ -32,19 +32,19 @@ body{
 }
 .type{
     color:white;
-    background-color: rgb(99, 14, 99);
+    background-color: rgb(95, 92, 92);
     border: 1px solid black;
     padding: 0px 10px 0px 10px;
 }
 th{
     color:white;
-    background-color: rgb(219, 45, 45);
+    background-color: rgb(95, 92, 92);
     border: 1px solid black;
     padding: 2px 2px 2px 2px;
 }
 .list{
     width:680px;
-    background-color: rgb(219, 45, 45);
+    background-color: rgb(95, 92, 92);
     padding:4px 10px 4px 10px;
     color:white;
      
